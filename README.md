@@ -23,6 +23,9 @@ You can find the text preprocessing code in the src/text_preprocessing.py script
 Feature Extraction
 To convert text data into a format suitable for machine learning models, you can use techniques like TF-IDF (Term Frequency-Inverse Document Frequency) and CountVectorizer. These methods convert text into numerical features that models can understand.
 
+Word Embeddings with Gensim
+Word embeddings capture semantic meaning and relationships between words. Gensim is a popular library for training and using word embeddings. You can use pre-trained word embeddings or train your own on your text data.
+
 Model Selection
 Choose machine learning algorithms suitable for your text classification problem. Common algorithms for text classification include:
 
